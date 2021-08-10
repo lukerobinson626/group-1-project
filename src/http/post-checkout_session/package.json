@@ -1,0 +1,7 @@
+{
+  "name": "begin-with-stripe",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "stripe": "^8.126.0"
+  }
+}

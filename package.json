@@ -1,0 +1,11 @@
+{
+  "name": "begin-app",
+  "version": "0.0.0",
+  "description": "A proxy for the Stripe API",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^4.0.1"
+  }
+}
